@@ -1,0 +1,2 @@
+# QUIZ-MINIPROJECT
+A Quiz Website using HTML ,CSS and JAVASCRIPT
